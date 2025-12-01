@@ -1,0 +1,18 @@
+module.exports=[81066,a=>{a.v({className:"geist_a7695b8e-module__Entzca__className"})},94064,a=>{a.v({className:"geist_mono_354fc78-module__zrY5Sa__className"})},93160,a=>{"use strict";let b=(0,a.i(11857).registerClientReference)(function(){throw Error("Attempted to call Analytics() from the server but Analytics is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.")},"[project]/node_modules/@vercel/analytics/dist/next/index.mjs <module evaluation>","Analytics");a.s(["Analytics",0,b])},81037,a=>{"use strict";let b=(0,a.i(11857).registerClientReference)(function(){throw Error("Attempted to call Analytics() from the server but Analytics is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.")},"[project]/node_modules/@vercel/analytics/dist/next/index.mjs","Analytics");a.s(["Analytics",0,b])},9835,a=>{"use strict";a.i(93160);var b=a.i(81037);a.n(b)},33290,a=>{"use strict";var b=a.i(7997),c=a.i(81066);let d={className:c.default.className,style:{fontFamily:"'Geist', 'Geist Fallback'",fontStyle:"normal"}};null!=c.default.variable&&(d.variable=c.default.variable);var e=a.i(94064);let f={className:e.default.className,style:{fontFamily:"'Geist Mono', 'Geist Mono Fallback'",fontStyle:"normal"}};null!=e.default.variable&&(f.variable=e.default.variable);var g=a.i(9835);function h({children:a}){return(0,b.jsxs)("html",{lang:"en",className:"dark",children:[(0,b.jsxs)("head",{children:[(0,b.jsx)("meta",{httpEquiv:"X-UA-Compatible",content:"IE=edge"}),(0,b.jsx)("meta",{httpEquiv:"Content-Security-Policy",content:"upgrade-insecure-requests"}),(0,b.jsx)("meta",{name:"apple-mobile-web-app-capable",content:"yes"}),(0,b.jsx)("meta",{name:"apple-mobile-web-app-status-bar-style",content:"black-translucent"}),(0,b.jsx)("meta",{name:"mobile-web-app-capable",content:"yes"})]}),(0,b.jsxs)("body",{className:"font-sans antialiased bg-black text-white",children:[(0,b.jsx)("script",{dangerouslySetInnerHTML:{__html:`
+              // Prevent XSS attacks by disabling console in production
+              if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+                console.log = () => {}
+                console.error = () => {}
+                console.warn = () => {}
+                console.info = () => {}
+              }
+              
+              // Disable right-click context menu in production
+              if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+                document.addEventListener('contextmenu', (e) => {
+                  e.preventDefault()
+                })
+              }
+            `}}),a,(0,b.jsx)(g.Analytics,{})]})]})}a.s(["default",()=>h,"metadata",0,{title:"HacFy - VAPT & Penetration Testing Services",description:"End-to-end penetration testing for Web, Mobile, Network, Cloud & APIs. Real exploitation, PoC evidence, and business-impact reporting.",generator:"v0.app",referrer:"strict-origin-when-cross-origin",formatDetection:{email:!1,telephone:!1},icons:{icon:[{url:"/icon-light-32x32.png",media:"(prefers-color-scheme: light)"},{url:"/icon-dark-32x32.png",media:"(prefers-color-scheme: dark)"},{url:"/icon.svg",type:"image/svg+xml"}],apple:"/apple-icon.png"}},"viewport",0,{width:"device-width",initialScale:1,maximumScale:1,userScalable:!1,themeColor:"#D60000"}],33290)}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__4c1e03ea._.js.map

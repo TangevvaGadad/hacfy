@@ -4,8 +4,8 @@ import { NextResponse } from "next/server"
 // Rate limiting store (in production, use Redis)
 const requestCounts = new Map<string, { count: number; timestamp: number }>()
 
-// Security middleware
-export function middleware(request: NextRequest) {
+// Security proxy (replaces deprecated middleware)
+export function proxy(request: NextRequest) {
   const ip = request.headers.get("x-forwarded-for") || request.headers.get("x-real-ip") || "unknown"
 
   const now = Date.now()
