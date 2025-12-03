@@ -1,15 +1,17 @@
-[00:00:01.914] Server  LOG     
-[00:00:01.915] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
-[00:00:01.916] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
-
-[00:00:01.916] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
-[00:00:01.916] Server  LOG     
-[00:00:01.917] Server  LOG        The following mandatory changes were made to your tsconfig.json:
-
-[00:00:01.917] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
-[00:00:01.918] Server  LOG     
-[00:00:01.961] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
-[00:00:02.490] Server  LOG      ✓ Ready in 1827ms
-[00:00:08.511] Server  LOG      ○ Compiling / ...
-[00:00:10.048] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:10.428] Browser LOG     [Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again.
+[00:00:03.375] Server  LOG      ✓ Ready in 2.4s
+[00:00:31.212] Server  LOG      ○ Compiling / ...
+[00:00:32.404] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:32.680] Browser LOG     [Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again.
+[00:01:24.681] Server  LOG      ✓ Compiled in 376ms
+[00:01:33.413] Server  LOG      ✓ Compiled in 141ms
+[00:01:34.508] Server  LOG      ✓ Compiled in 119ms
+[00:02:13.333] Server  LOG      ✓ Compiled in 135ms
+[00:02:19.845] Server  LOG      ✓ Compiled in 111ms
+[00:02:25.639] Server  LOG      ✓ Compiled in 140ms
+[00:02:31.535] Server  LOG      ✓ Compiled in 115ms
+[00:02:44.485] Server  LOG      ✓ Compiled in 145ms
+[00:03:17.112] Server  LOG      ✓ Compiled in 149ms
+[00:03:22.060] Server  LOG      ✓ Compiled in 320ms
+[00:03:39.204] Server  LOG      ✓ Compiled in 120ms
+[00:03:46.861] Server  LOG      ✓ Compiled in 110ms
+[00:03:48.154] Server  LOG      ✓ Compiled in 117ms

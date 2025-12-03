@@ -16,13 +16,14 @@ export default function Home() {
     <main className="w-full min-h-screen bg-black">
       <Header />
       <HeroSection />
-      <BlogsSection />
+      
       <TrustCardsSection />
-      <AttackVectorsGrid />
+      {/* <AttackVectorsGrid /> */}
       <CaseStudies />
       <SecurityScoreMeter />
       <AssessmentsTestimonials />
       <GetQuoteSection />
+      <BlogsSection />
       <FinalCtaSection />
     </main>
   )
